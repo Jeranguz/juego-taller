@@ -15,8 +15,8 @@ def main():
     main_menu(screen)
 
     board = Board()
-    player1 = Player("Jugador 1", (255, 0, 0))
-    player2 = Player("Jugador 2", (0, 0, 255))
+    player1 = Player("Jugador 1", (255, 0, 0), board)
+    player2 = Player("Jugador 2", (0, 0, 255), board)
 
     running = True
     while running:

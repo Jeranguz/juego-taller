@@ -56,27 +56,11 @@ PROPERTIES = [
         "price": 240
     },
     {
-        "name": "Atlantic Avenue",
-        "price": 260
-    },
-    {
-        "name": "Ventnor Avenue",
-        "price": 260
-    },
-    {
-        "name": "Marvin Gardens",
-        "price": 280
-    },
-    {
         "name": "Pacific Avenue",
         "price": 300
     },
     {
         "name": "North Carolina Avenue",
         "price": 300
-    },
-    {
-        "name": "Pennsylvania Avenue",
-        "price": 320
     }
 ]
